@@ -18,6 +18,7 @@ provenance, and owner authorization.
   [PR #4](https://github.com/morphious1986/forge-pcmf-engine./pull/4).
 - Separate sanitized language-semantics article:
   [PR #5](https://github.com/morphious1986/forge-pcmf-engine./pull/5).
+- R245 sanitized development and publication-safety review: [PR #6](https://github.com/morphious1986/forge-pcmf-engine./pull/6) — draft, no R245 runtime source, no deployment authorization.
 
 This repository is retained as a **historical public project index**.
 Do not assume its older package status describes the current native-source
